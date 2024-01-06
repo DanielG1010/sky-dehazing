@@ -1,7 +1,7 @@
 # sky-dehazing
 Implements dehazing evaluation with sky segmentation
 
-Enviroment instalation micromamba
+Enviroment installation micromamba
 
 ```bash
 
@@ -16,7 +16,7 @@ mim download mmsegmentation --config pspnet_r50-d8_4xb2-40k_cityscapes-512x1024 
 
 ```
 
-Enviroment instalation conda
+Enviroment installation conda
 
 ```bash
 
